@@ -1,0 +1,24 @@
+limousine 7:00-am Cairo Alexandria nonstop
+
+limousine 9:00-am Alexandria Fayoum onestop
+
+limousine 11:00-am Alexandria mansoura nonstop
+
+limousine 1:00-pm Minya Cairo onestop
+
+limousine 5:00-pm Alexandria Zagzig onestop
+
+limousine 7:00-pm Alexandria Marsamatrouh onestop
+
+minibus 9:00-am cairo Alexandria nonstop
+
+minibus 12:00-pm Alexandria Desouk nonstop
+
+minibus 3:00-pm ElAlmein Alexandria nonstop
+
+minibus 6:00-pm Cairo Benisuef onestop
+
+bus 9:am cairo sharmelsheikh onestop
+
+bus 6:00-pm Alexandria Dahab manystop
+

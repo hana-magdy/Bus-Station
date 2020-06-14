@@ -1,0 +1,15 @@
+limousine 7:00-am Egypt Suadan onestop
+limousine 9:00-am Egypt libya nonestop
+minibus 11:00-am Egypt Bahrain manystop
+minibus 1:00-pm Egypt Camroon manystop
+minibus 3:00-pm Egypt Congo manystop
+minibus 5:00-pm Egypt Angola manystop
+minibus 7:00-pm Egypt Ethiopia manystop
+bus 9:00-am Egypt France manystop
+bus 12:00-pm Egypt Germany manystop
+bus 3:00-pm Egypt Italy onestop
+bus 6:00-pm Egypt Cuba manystop
+bus 10:00-pm Egypt India manystop
+bus 1:00-pm Egypt England manystop
+bus 4:00-pm Egypt Belguim manystop
+bus 7:00-pm Egypt Greece manystop 
